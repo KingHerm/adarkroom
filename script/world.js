@@ -64,8 +64,8 @@ var World = {
     'steel sword': {
       verb: _('slash'),
       type: 'melee',
-      damage: 6,
-      cooldown: 2
+      damage: 100,
+      cooldown: 1
     },
     'bayonet': {
       verb: _('thrust'),
